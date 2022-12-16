@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F2D1005294C331400A09971 /* WidgetKitSandboxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2D1004294C331400A09971 /* WidgetKitSandboxApp.swift */; };
+		2F2D1005294C331400A09971 /* AppMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2D1004294C331400A09971 /* AppMain.swift */; };
 		2F2D1007294C331400A09971 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2D1006294C331400A09971 /* ContentView.swift */; };
 		2F2D1009294C331500A09971 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F2D1008294C331500A09971 /* Assets.xcassets */; };
 		2F2D100C294C331500A09971 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F2D100B294C331500A09971 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		2F2D1001294C331400A09971 /* WidgetKitSandbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WidgetKitSandbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F2D1004294C331400A09971 /* WidgetKitSandboxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetKitSandboxApp.swift; sourceTree = "<group>"; };
+		2F2D1004294C331400A09971 /* AppMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppMain.swift; sourceTree = "<group>"; };
 		2F2D1006294C331400A09971 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2F2D1008294C331500A09971 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F2D100B294C331500A09971 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		2F2D1003294C331400A09971 /* WidgetKitSandbox */ = {
 			isa = PBXGroup;
 			children = (
-				2F2D1004294C331400A09971 /* WidgetKitSandboxApp.swift */,
+				2F2D1004294C331400A09971 /* AppMain.swift */,
 				2F2D1006294C331400A09971 /* ContentView.swift */,
 				2F2D1008294C331500A09971 /* Assets.xcassets */,
 				2F2D100A294C331500A09971 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F2D1007294C331400A09971 /* ContentView.swift in Sources */,
-				2F2D1005294C331400A09971 /* WidgetKitSandboxApp.swift in Sources */,
+				2F2D1005294C331400A09971 /* AppMain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
